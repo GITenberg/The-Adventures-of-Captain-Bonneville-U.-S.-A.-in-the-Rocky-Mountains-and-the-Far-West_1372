@@ -1,0 +1,39 @@
+_repo: The-Adventures-of-Captain-Bonneville-U.-S.-A.-in-the-Rocky-Mountains-and-the-Far-West_1372
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+  - agent_name: Bonneville, Benjamin Louis Eulalie de
+    alias: De Bonneville, Benjamin Louis Eulalie
+    birthdate: 1796
+    deathdate: 1878
+    gutenberg_agent_id: '620'
+    url: http://www.gutenberg.org/2009/agents/620
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Bonneville
+description: ''
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fur trade -- West (U.S.) -- History -- 19th century'
+- !lcsh 'Bonneville, Benjamin Louis Eulalie de, 1796-1878'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'West (U.S.) -- History -- To 1848'
+- !lcc 'F590.3'
+- !lcsh 'Explorers -- West (U.S.) -- Biography'
+- !lcsh 'Northwestern States -- Description and travel'
+- GITenberg
+title: The Adventures of Captain Bonneville, U. S. A., in the Rocky Mountains and
+  the Far West
+url: http://www.gutenberg.org/ebooks/1372
