@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Captain-Bonneville-U.-S.-A.-in-the-Rocky-Mountains-and-the-Far-West_1372
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Irving, Washington
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/620
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Bonneville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1372#The-Adventures-of-Captain-Bonneville-U.-S.-A.-in-the-Rocky-Mountains-and-the-Far-West
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
 identifiers:
